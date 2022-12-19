@@ -1,6 +1,6 @@
-# neurolab-transformers
+# lab-transformers
 
-![iNeuron](https://ineuron.ai/images/ineuron-logo.png)
+<!-- ![iNeuron](https://ineuron.ai/images/ineuron-logo.png) -->
 
 ## Run the application
 
